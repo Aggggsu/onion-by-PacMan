@@ -14,5 +14,20 @@ _Это программа для onion ссылок_
 _v1.1.1 Это первая версия программы и, возможно, будут баги,ошибки и.т.д._
 
 
+# Установка 
+
+
+Скачать с github:
+
+
+`git clone https://github.com/Aggggsu/onion-by-PacMan`
+
+Скачать с Telegram:
+
+`https://t.me/i2p_3218/260`
+
+
+--------------
+
 ![link](https://img.shields.io/github/stars/Aggggsu/onion-by-PacMan?style=social)
 ![link](https://img.shields.io/github/directory-file-count/Aggggsu/onion-by-PacMan?style=social)
