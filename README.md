@@ -29,5 +29,17 @@ _v1.1.1 Это первая версия программы и, возможно
 
 --------------
 
+# PacMan_onion.py для Android 
+
+![link](https://github.com/Aggggsu/onion-by-PacMan/blob/main/img/Screenshot_20220119_021839_ru.iiec.pydroid3.jpg) 
+
+## Установка 
+
+### Telegram 
+
+`https://t.me/i2p_3218/266`
+
+------------
+
 ![link](https://img.shields.io/github/stars/Aggggsu/onion-by-PacMan?style=social)
 ![link](https://img.shields.io/github/directory-file-count/Aggggsu/onion-by-PacMan?style=social)
