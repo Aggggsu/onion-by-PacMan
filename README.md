@@ -2,7 +2,7 @@
 
 ![link](https://github.com/Aggggsu/onion-by-PacMan/blob/main/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(91).png)
 
-_Это программа для onion ссылок_
+_Список onion ссылок_
 
 # Комманды
 
@@ -11,7 +11,7 @@ _Это программа для onion ссылок_
 # Текущая версия 
 
 
-_v1.1.1 Это первая версия программы и, возможно, будут баги,ошибки и.т.д._
+_v1.2.2 Это beta и, возможно, будут баги,ошибки и.т.д._
 
 
 # Установка 
@@ -29,7 +29,7 @@ _v1.1.1 Это первая версия программы и, возможно
 
 --------------
 
-# PacMan_onion.py для Android 
+# PacMan_onion.py Termux 
 
 ![link](https://github.com/Aggggsu/onion-by-PacMan/blob/main/img/Screenshot_20220119_021839_ru.iiec.pydroid3.jpg) 
 
