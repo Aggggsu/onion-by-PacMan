@@ -20,24 +20,23 @@ _v1.2.2 Это beta и, возможно, будут баги,ошибки и.т
 Скачать с github:
 
 
-`git clone https://github.com/Aggggsu/onion-by-PacMan`
-
-Скачать с Telegram:
-
-`https://t.me/i2p_3218/260`
-
+`git clone https://github.com/Aggggsu/onionbypac`
 
 --------------
 
 # PacMan_onion.py Termux 
 
-![link](https://github.com/Aggggsu/onion-by-PacMan/blob/main/img/Screenshot_20220119_021839_ru.iiec.pydroid3.jpg) 
+![link](https://github.com/Aggggsu/onionbypac/blob/main/img/Screenshot_20220302_093700_com.termux.jpg) 
 
-## Установка 
+# Установка 
+`pkg install python`
 
-### Telegram 
+`git clone https://github.com/Aggggsu/onionbypac`
 
-`https://t.me/i2p_3218/266`
+`cd https://github.com/Aggggsu/onionbypac`
+
+`python onionbypacman.py`
+
 
 ------------
 
