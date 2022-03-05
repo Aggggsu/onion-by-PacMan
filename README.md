@@ -6,12 +6,12 @@ _Список onion ссылок_
 
 # Комманды
 
-`/a поисковики, /b сайты, /for форумы, /chat чаты.`
+`/a поисковики, /b сайты.`
 
 # Текущая версия 
 
 
-_v1.2.2 Это beta и, возможно, будут баги,ошибки и.т.д._
+_v1.2.3: Было исправлено огромное количество ошибок!_
 
 
 # Установка 
@@ -34,6 +34,7 @@ _v1.2.2 Это beta и, возможно, будут баги,ошибки и.т
 `git clone https://github.com/Aggggsu/onionbypac`
 
 `cd https://github.com/Aggggsu/onionbypac`
+_или другою папку с файлом "onionbypacman.py"_
 
 `python onionbypacman.py`
 
