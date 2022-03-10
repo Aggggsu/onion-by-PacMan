@@ -1,0 +1,182 @@
+#onion by PacMan (Andrij Shvets) v2. 1.1
+import os
+import sys
+import webbrowser
+texxxtform = "http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/pol/res/983.html"
+texxxtform2 = "http://runionv3do7jdylpx7ufc6qkmygehsiuichjcstpj4hb2ycqrnmp67ad.onion/forum/31/topic/25919/"
+texxxtform3 = "http://3cagmlhqyqkmzx6h67rlbfraixrofodmifqidlpqrtmm2fhrweobctqd.onion/"
+chat = "http://ieerjeynr5cw24xp6mme34o7mdbbtq54zssosoxnthzwpn6keqsatwqd.onion/chat.php"
+chat2 = "http://blkh4ylofapg42tj6ht565klld5i42dhjtysvsnnswte4xt4uvnfj5qd.onion/index.php?lang=ru"
+chat3 = "http://who.i2p/"
+wikioni = "http://psychonaut3z5aoz.onion/wiki/"
+wikioni2 = "http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/wiki"
+wikioni3 = "http://kfj2am4ee2asdqflt4tuxxwbeuzmh6tv64ojbqscc4u55skrechsxzad.onion.ly"
+newsdark = "http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/f/DarkNetNews"
+Telegramoniii = "https://t.me/i2p_3218"
+
+print("Onion")
+print("by")
+print("PacMan")
+print("")
+print("v2.1.1")
+print("")
+print(" #Нет_войны! ")
+print("")
+def out_red(text):
+    print("\033[33m{}".format(text))
+out_red("v2.1.1 [глобальное обновление!] ")
+print ("Что нового: консоль выглядит красиво.Новые команды: /restart,/exit,/downtor, /info, /forumoni, /chatonion, /wikionionss, /newsdarkkk. ")
+print("")
+def out_red(text):
+    print("\033[32m{}".format(text))
+out_red("/a поисковики, /b  Сайты. Просто напишите английскую а или b.")
+what = input ("/")
+
+if what == "a":
+    print("http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/")
+    print("http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/")
+    print("http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion")
+    print("")
+    print("stop")
+    print("")
+    print("")
+    print("")
+    print("")
+    print("")
+    print("")
+    print("")
+    print("")
+    print("Сейчас откроется новая вкладка вашего браузера...")
+    print("")
+    print("")
+    print("")
+    print("1...")
+    print("")
+    print("")
+    print("2...")
+    print("")
+    print("")
+    print("3...")
+    webbrowser.open('https://t.me/i2p_3218', new=2)
+    print("подпишись на меня в Telegram ^_^ ")
+    
+
+elif what == "b":
+    print("http://kpzscgdqezpen5zpnc4gky5vx4r56thl5syq2x45j6hbjy5w7tjilwid.onion/blog/")
+    print("http://55gexkiyipqq2tvrkkrcgcc62yuqcil2bgk4k64dle6g62mdov7otqid.onion")
+    print("http://5ajc5sk4plsiem2g.onion/")
+    print("http://videonwcswhrqynk.onion")
+    print("http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion/")
+    print("http://pic2tornetwa6jj2gytmpiz3fyqgir4obar7duyvtsosaohbdey3x2ad.onion/")
+    print("http://tmfeedozvp6v65nf.onion/")
+    print("http://xmh57jrzrnw6insl.onion/")
+    print("http://hss3uro2hsxfogfq.onion/")
+    print("http://society44nlbxqdz.onion/group/music")
+    print("http://darkweba6le5w52w.onion/")
+    print("http://grrmailb3fxpjbwm.onion/")
+    print("http://deepmexzsejpzqid3k7knaas2p73dko6kxgpou7oey7vqtmrhopjyqyd.onion/")
+    print("http://cr6m2rg4gsydf6yd.onion/")
+    print("http://bbbps6itk4pbhuqilhengm3q625fq4ibrzdua6smjaojophaanllgpyd.onion/")
+    print("http://torpedodlvreoibyse66ffvrrbvzjdxqi574fduwso2nid6vs2yozxad.onion")
+    print("http://hydraruzxpnew4af.onion/register")
+    print("http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/")
+    print("http://cockmailwwfvrtqj.onion")
+    print("http://tinhat233xymse34.onion/blog/primers/how-secure-email.html")
+    print("http://gh5gewziqmm5twfn2dpwap6t4dwp44emi4smzmw3f5lqc3natfbcpuid.onion/")
+    print("https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion/node/19")
+    print("http://anospain79hispano5.torpress2sarn7xw.onion/descarga/")
+    print("http://bhm5koavobq353j54qichcvzr6uhtri6x4bjjy4xkybgvxkzuslzcqid.onion")
+    print("http://nymphetowhsn3gpf.onion/")
+    print("http://bhfdotioyenp2qr4.onion/threads/614914/")
+    print("http://psychonaut3z5aoz.onion/wiki/")
+    print("")
+    print("")
+    print("Другие onions в нашем канале! ")
+elif what == "wikionionss":
+  print("")
+  print(wikioni)
+  print("")
+  print(wikioni2)
+  print("")
+  print(wikioni3)
+  print("")
+  exit()
+elif what == "chatonion":
+  print("")
+  print(chat)
+  print("")
+  print(chat2)
+  print("")
+  print(chat3)
+  print("")
+  exit()
+elif what == "forumoni":
+  print("")
+  print(texxxtform)
+  print("")
+  print(texxxtform2)
+  print("")
+  print(texxxtform3)
+  print("")
+  exit()
+elif what == "Похуй":
+  def out_red(text):
+    print("\033[41m{}".format(text))
+  out_red("БАН")
+  exit()
+elif what == "cyka":
+  def out_red(text):
+    print("\033[41m{}".format(text))
+  out_red("БАН") 
+  exit()
+elif what == "Лох":
+  print ("Я не лох!")
+  exit()
+elif what == "Тупой бот":
+  print("А ты самый умный что ли?")
+  exit()
+elif what == "Как дела?":
+  print ("Нормально")
+elif what == "Слава Україні!":
+  print("Героям слава!")
+elif what == "Слава Україні":
+  print ("Героям слава ")
+elif what == "restart":
+  print("Перезагрузка...")
+  os.execl(sys.executable, sys.executable, *sys.argv)
+elif what == "info":
+  def out_red(text):
+    print("\033[32m{}".format(text))
+  out_red("v2.1.1 onionbypacman")
+  print("")
+  def out_red(text):
+    print("\033[33m{}".format(text))
+  out_red("Команды: /a поисковики,/b сайты, /restart перезапуск, /downtor скачать Tor, /exit выход,/info,/forumoni, /chatonion, /wikionionss, /newsdarkkk.  ")
+  print("")
+  print("")
+  exit()
+elif what == "downtor":
+  print()
+  print("Android: https://play.google.com/store/apps/details?id=org.torproject.torbrowser")
+  print()
+  print ("Windows: https://www.torproject.org/dist/torbrowser/11.0.7/TorBrowser-11.0.7-osx64_en-US.dmg ")
+  print()
+  print ("MacOS: https://www.torproject.org/dist/torbrowser/11.0.7/tor-browser-linux64-11.0.7_en-US.tar.xz ")
+  print()
+  print("Linux: https://www.torproject.org/download/#android ")
+  print()
+  exit()
+elif what == "newsdarkkk":
+  print(newsdark)
+  print("")
+  print(Telegramoniii)
+  exit()
+elif what == "exit":
+  exit()
+
+else:
+  def out_red(text):
+    print("\033[31m{}".format(text))
+  out_red("Errrrrr :D [ошибочка] ")
+  exit()
+input()
