@@ -6,12 +6,12 @@ _Список onion ссылок_
 
 # Комманды
 
-`/a поисковики, /b сайты,/restart перезапуск, /exit выход, /downtor скачать Tor,/info информация,/forumoni форумы, /chatonion чаты,/wikionionss вики onion, /newsdarkkk новости.`
+`/a поисковики, /b сайты,/restart перезапуск, /exit выход, /downtor скачать Tor,/info информация,/forumoni форумы, /chatonion чаты,/wikionionss вики onion, /newsdarkkk новости, /i2p.`
 
 # Текущая версия 
 
 
-_v2.1.1: Новые команды, красивый дизайн._
+_v2.1.2: Новые команды._
 
 
 # Установка 
@@ -26,7 +26,7 @@ _v2.1.1: Новые команды, красивый дизайн._
 
 # PacMan_onion.py Termux 
 
-![link](https://github.com/Aggggsu/onionbypac/blob/main/img/Screenshot_20220310_143357_com.termux.jpg) 
+![link](https://github.com/Aggggsu/onionbypac/blob/main/img/imgonline-com-ua-dexif32aTX1lBX3Mm.jpg) 
 
 # Установка 
 `pkg install python`
