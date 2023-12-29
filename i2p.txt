@@ -21,7 +21,7 @@ http://epsilon.i2p/
 http://aperi.i2p/
 @
 
-Поисковики: 
+Пошукові системи: 
 http://eye.i2p/
 http://eepsites.i2p/
 http://search.rus.i2p/
@@ -40,5 +40,4 @@ http://lycanthrope.i2p/
 
 Телеграм канал: https://t.me/i2p_3218
 
-Чат моего друга: 
-https://t.me/+NovIsZXGWVhiYjIy
+
