@@ -30,7 +30,7 @@ out_red("PacMan")
 print("")
 def out_red(text):
     print("\033[37m{}".format(text))
-out_red("v3.0.0")
+out_red("v3.0.0 BETA")
 print("")
 print(" #Ні_війні! ")
 print("")
@@ -151,7 +151,7 @@ elif what == "restart":
 elif what == "info":
   def out_red(text):
     print("\033[32m{}".format(text))
-  out_red("v3.0.0 onionbypacman")
+  out_red("v3.0.0 BETA onionbypacman")
   print("")
   def out_red(text):
     print("\033[33m{}".format(text))
