@@ -1,8 +1,8 @@
-#onion by PacMan v2.1.2
+#onion by PacMan v3.0.0 BETA
 import os
 import sys
 import webbrowser
-#База данных
+#База даних 
 texxxtform = "http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/pol/res/983.html"
 texxxtform2 = "http://runionv3do7jdylpx7ufc6qkmygehsiuichjcstpj4hb2ycqrnmp67ad.onion/forum/31/topic/25919/"
 texxxtform3 = "http://3cagmlhqyqkmzx6h67rlbfraixrofodmifqidlpqrtmm2fhrweobctqd.onion/"
@@ -32,16 +32,18 @@ def out_red(text):
     print("\033[37m{}".format(text))
 out_red("v2.1.2")
 print("")
-print(" #Нет_войны! ")
+print(" #Ні_війні! ")
 print("")
 def out_red(text):
     print("\033[33m{}".format(text))
 out_red("v2.1.2")
-print ("Что нового:Новые команды: /restart,/exit,/downtor, /info, /forumoni, /chatonion, /wikionionss, /newsdarkkk, /i2p")
+print ("Що нового: Нові команди: /restart,/exit,/downtor, /info, /forumoni, /chatonion, /wikionionss, /newsdarkkk, /i2p")
+print("")
+print("+ Зміна мови,з російської на українську!")
 print("")
 def out_red(text):
     print("\033[32m{}".format(text))
-out_red("/a поисковики, /b  Сайты. Просто напишите английскую а или b.")
+out_red("/a пошукові системи, /b  Сайти. Просто напишіть англійську а чи b.")
 what = input ("/")
 
 if what == "a":
@@ -58,7 +60,7 @@ if what == "a":
     print("")
     print("")
     print("")
-    print("Сейчас откроется новая вкладка вашего браузера...")
+    print("Зараз відкриється нова сторінка вашого браузера")
     print("")
     print("")
     print("")
@@ -70,7 +72,7 @@ if what == "a":
     print("")
     print("3...")
     webbrowser.open('https://t.me/i2p_3218', new=2)
-    print("подпишись на меня в Telegram ^_^ ")
+    print("Заходьте в мій Telegram ^_^ ")
     
 
 elif what == "b":
@@ -78,7 +80,7 @@ elif what == "b":
     print("")
     print(oniontxt2.read())
     print("")
-    print("Другие onions в нашем канале! ")
+    print("Інші onions в нашому каналі! ")
 elif what == "wikionionss":
   print("")
   print(wikioni)
@@ -98,7 +100,7 @@ elif what == "chatonion":
   print("")
   exit()
 elif what == "IDDQD":
-  print("Чит код активирован")
+  print("Чіт код запущений")
   print("Запуск....")
   print(texxxtform)
   print(chat)
@@ -135,9 +137,9 @@ elif what == "Лох":
   print ("Я не лох!")
   exit()
 elif what == "Тупой бот":
-  print("А ты самый умный что ли?")
+  print("А ти?")
   exit()
-elif what == "Как дела?":
+elif what == "Як справи?":
   print ("Нормально")
 elif what == "Слава Україні!":
   print("Героям слава!")
@@ -153,15 +155,15 @@ elif what == "info":
   print("")
   def out_red(text):
     print("\033[33m{}".format(text))
-  out_red("Команды: /a поисковики,/b сайты, /restart перезапуск, /downtor скачать Tor, /exit выход,/info,/forumoni, /chatonion, /wikionionss, /newsdarkkk.  ")
+  out_red("Команди: /a пошукові системи,/b сайти, /restart перезапуск, /downtor скачати Tor, /exit вихід,/info,/forumoni, /chatonion, /wikionionss, /newsdarkkk.  ")
   print("")
-  print("Директория файла:")
+  print("Папка з файлом:")
   print(os.getcwd())
   print ("")
-  print ("Язык программирования:")
+  print ("Мова програмування:")
   print ("Python")
-  print("Язык программы:")
-  print ("Русский")
+  print("Мова програми:")
+  print ("Українська,Україна")
   print("GitHub: https://github.com/Aggggsu/onionbypac")
   exit()
 elif what == "downtor":
@@ -194,6 +196,6 @@ elif what == "i2p":
 else:
   def out_red(text):
     print("\033[31m{}".format(text))
-  out_red("Errrrrr :D [ошибочка] ")
+  out_red("Errrrrr :D [помилка] ")
   exit()
 input()
