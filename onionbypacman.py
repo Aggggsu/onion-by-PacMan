@@ -30,13 +30,13 @@ out_red("PacMan")
 print("")
 def out_red(text):
     print("\033[37m{}".format(text))
-out_red("v2.1.2")
+out_red("v3.0.0")
 print("")
 print(" #Ні_війні! ")
 print("")
 def out_red(text):
     print("\033[33m{}".format(text))
-out_red("v2.1.2")
+out_red("v3.0.0")
 print ("Що нового: Нові команди: /restart,/exit,/downtor, /info, /forumoni, /chatonion, /wikionionss, /newsdarkkk, /i2p")
 print("")
 print("+ Зміна мови,з російської на українську!")
@@ -151,7 +151,7 @@ elif what == "restart":
 elif what == "info":
   def out_red(text):
     print("\033[32m{}".format(text))
-  out_red("v2.1.2 onionbypacman")
+  out_red("v3.0.0 onionbypacman")
   print("")
   def out_red(text):
     print("\033[33m{}".format(text))
